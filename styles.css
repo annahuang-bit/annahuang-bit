@@ -14,9 +14,9 @@ header {
 p {
     font-size: medium;
     text-align: center;
-    width: 50px;
-    margin-left: 10px;
-    margin-right: 10px;
+    width: 75px;
+    margin-left: 30px;
+    margin-right: 5px;
 }
 
 h3 {
@@ -34,4 +34,5 @@ h3 {
 
 b {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
