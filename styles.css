@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: FFDCD0;
 }
 
 header {
@@ -14,4 +15,8 @@ p {
 
 h3 {
     text-align: center;
+}
+
+.codecademy {
+    font-weight: bold;
 }
