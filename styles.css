@@ -22,3 +22,8 @@ h3 {
 .codecademy {
     font-weight: bold;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
