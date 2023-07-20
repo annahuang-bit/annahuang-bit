@@ -13,7 +13,7 @@ header {
 
 p {
     font-size: medium;
-    width: 70%;
+    width: 65%;
     margin-left: 200px;
     margin-right: 50px;
     margin-top: 50px;
@@ -38,7 +38,7 @@ b {
 }
 
 .headshot {
-    margin-right: 150px;
+    margin-right: 200px;
     width: 175px;
     height:200px;
 }
