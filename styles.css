@@ -8,12 +8,15 @@ header {
     font-size: 30px;
     font-weight:bold;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 p {
     font-size: medium;
     text-align: center;
-    width: 100px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 h3 {
@@ -27,4 +30,8 @@ h3 {
 .container {
     display: flex;
     justify-content: space-between;
+}
+
+b {
+    margin-top: 50px;
 }
