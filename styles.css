@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+header {
+    font-size: 30px;
+    font-weight:bold;
+}
+
+p {
+    font-size: medium;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
